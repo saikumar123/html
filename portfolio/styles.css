@@ -1,0 +1,14 @@
+/* .container {
+    background-color: red;
+} */
+
+.nav-wrapper {
+    font-style: italic;
+}
+
+.left-side {
+
+    font-family: cursive;
+
+    scroll-behavior: smooth;
+}
